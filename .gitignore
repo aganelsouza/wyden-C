@@ -1,0 +1,28 @@
+# Arquivos executáveis
+*.exe
+*.out
+*.o
+
+# Arquivos temporários
+*.tmp
+*.temp
+*~
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de compilação
+build/
+dist/
+*.log
+
+# Arquivos de backup
+*.bak
+*.backup
