@@ -1,6 +1,6 @@
 # 📚 Wyden-C: Estruturas de Dados em C
 
-[![C](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C](https://img.shields.io/badge/Language-C-blue.svg)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
 [![Data Structures](https://img.shields.io/badge/Topic-Data%20Structures-green.svg)](https://en.wikipedia.org/wiki/Data_structure)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -31,28 +31,33 @@ wyden-C/
 ## 🎯 Estruturas Implementadas
 
 ### ✅ Listas Encadeadas
+
 - **Lista Linear**: `1 -> 2 -> 3 -> NULL`
 - **Lista Duplamente Encadeada**: `NULL <- 1 <-> 2 <-> 3 -> NULL`
 - **Lista Circular**: `1 -> 2 -> 3 -> 1 (volta ao início)`
 - **Lista Dupla Circular**: Combinação de ambas
 
 ### ✅ Pilha (Stack - LIFO)
+
 - Implementação com **array** (tamanho fixo)
 - Implementação com **lista encadeada** (dinâmica)
 - **Aplicação**: Validação de parênteses balanceados
 
 ### ✅ Fila (Queue - FIFO)
+
 - Implementação com **array circular** (eficiente)
 - Implementação com **lista encadeada** (flexível)
 - **Aplicação**: Simulação de fila de atendimento bancário
 
 ### ✅ Aplicações Práticas
+
 - 🏪 **Simulador de Estacionamento** (vagas, entrada/saída, histórico)
 - 🔗 **Validador de Expressões** (parênteses, colchetes, chaves)
 
 ## 🚀 Como Usar
 
 ### Compilação e Execução
+
 ```bash
 # Navegar para a pasta
 cd "estruturas de dados em c"
@@ -66,6 +71,7 @@ gcc -o programa arquivo.c
 ```
 
 ### Exemplos Rápidos
+
 ```bash
 # Lista encadeada básica
 gcc -o lista lista_ponteiros_completo.c && ./lista
@@ -83,11 +89,13 @@ gcc -o apps exemplos_praticos.c && ./apps
 ## 📝 Exercícios Disponíveis
 
 ### Níveis de Dificuldade
+
 - 🟢 **Básico**: Contar elementos, buscar valores
 - 🟡 **Intermediário**: Inverter listas, ordenação
 - 🔴 **Avançado**: Aplicações complexas, combinações
 
 ### Como Praticar
+
 1. Copie o `exercicio_template.c`
 2. Implemente as funções marcadas com `TODO`
 3. Compare com `exercicio_template_SOLUCOES.c`
@@ -114,15 +122,18 @@ gcc -o apps exemplos_praticos.c && ./apps
 ## 🎓 Roteiro de Estudos Recomendado
 
 ### Semana 1: Fundamentos
+
 1. Lista encadeada linear
 2. Operações básicas (inserir, remover, exibir)
 
 ### Semana 2: Estruturas Avançadas
+
 1. Lista duplamente encadeada
 2. Lista circular
 3. Pilha e Fila
 
 ### Semana 3: Aplicações
+
 1. Exercícios práticos
 2. Aplicações do mundo real
 3. Otimizações e melhorias
@@ -136,6 +147,7 @@ gcc -o apps exemplos_praticos.c && ./apps
 5. Abra um **Pull Request**
 
 ### Sugestões de Contribuições
+
 - ➕ Novas estruturas de dados (árvores, grafos)
 - 🔧 Otimizações de performance
 - 📝 Novos exercícios
@@ -149,6 +161,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👨‍💻 Autor
 
 **Gabriel Souza**
+
 - 📧 Email: [seu-email@exemplo.com]
 - 🔗 LinkedIn: [seu-linkedin]
 - 📚 Estudante de Ciência da Computação
@@ -165,4 +178,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ⭐ **Se este repositório te ajudou, dê uma estrela!**
 
-*"A melhor forma de aprender é ensinando aos outros."*
+_"A melhor forma de aprender é ensinando aos outros."_
