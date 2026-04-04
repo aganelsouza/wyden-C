@@ -160,11 +160,12 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-**Gabriel Souza**
+**AGANEL DE LIMA SOUZA**
 
-- 📧 Email: [seu-email@exemplo.com]
-- 🔗 LinkedIn: [seu-linkedin]
-- 📚 Estudante de Ciência da Computação
+- 📧 Email: [agnaellima@gmail.com]
+- 🔗 LinkedIn: [https://www.linkedin.com/in/agnael-lima-85255079/]
+- 📚 Estudante de ENGENHARIA DE SOFTWERE
+
 
 ---
 
